@@ -86,8 +86,20 @@ Common sources of problems:
 - ChatGPT generates bad code that fails to run. Examine the output in the Xcode console log window carefully when this happens.
 - No suitable models are found by Sketchfab, the models fail to download, or an import error is experienced.
 
+## Citing
 
+For more details, please check and cite the following paper. 
+
+```
+@inproceedings{ding2023near,
+  title={Near Real-time ChatGPT-AR},
+  author={Ding, Yuchen and Zhou, Pengyuan},
+  booktitle={Proceedings of the 21st Annual International Conference on Mobile Systems, Applications and Services},
+  pages={608--609},
+  year={2023}
+}
+```
 
 ## Acknowledgement
 
-Special thanks to the ChatARKit team for providing the code and resources that have been instrumental in the development of this project. Your contributions are greatly appreciated!
+Special thanks to the [ChatARKit](https://github.com/trzy/ChatARKit) team for providing the code and resources that have been instrumental in the development of this project. Your contributions are greatly appreciated!
